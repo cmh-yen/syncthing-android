@@ -1,4 +1,4 @@
-# Discontinued
+# ~~Discontinued~~ Nah
 
 This app is discontinued. The last release on Github and F-Droid will happen
 with the December 2024 Syncthing version. Interactions (issues, PRs) are limited
